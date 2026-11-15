@@ -24,7 +24,7 @@ c line 22
 c line 23
 c line 24
 c line 25
-c line 26
+chaos 12
 c line 27
 c line 28
 c line 29
@@ -51,7 +51,7 @@ c line 49
 c line 50
 c line 51
 c line 52
-chaos 3
+c line 53
 c line 54
 c line 55
 c line 56
